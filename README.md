@@ -1,2 +1,2 @@
 # hangboard-tracker
-I am collecting hangboard training data to plot progress over time
+I am collecting my hangboard training data to plot progress over time
